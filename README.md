@@ -2,6 +2,8 @@
 
 The goal is to procedurally generated houses that look like Lod's House from the hit game The Elder Scrolls V: Skyrim.
 
+The tool can be used as seen in the following demo video:
+
 This is what Lod's Hosue looks like:
 ![200px-SR-place-Lod's_House](https://github.com/user-attachments/assets/d491e0a6-572c-4756-bf2e-e9f6672586f4)
 
