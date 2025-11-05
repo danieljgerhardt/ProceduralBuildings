@@ -1,5 +1,5 @@
 # Procedural Buildings - Lod's House
-
+Two late days used for this assignment.
 The goal is to procedurally generated houses that look like Lod's House from the hit game The Elder Scrolls V: Skyrim.
 
 The tool can be used as seen in the following demo video:
